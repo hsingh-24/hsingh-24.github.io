@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.betterkick.app",
+      "sha256_cert_fingerprints": [
+        "10:53:21:53:AB:3E:CD:3E:96:98:AC:2D:23:BA:15:D8:FC:9E:E6:4F:F7:AF:A3:8F:D8:10:66:9B:AD:C0:0E:B6"
+      ]
+    }
+  }
+]
